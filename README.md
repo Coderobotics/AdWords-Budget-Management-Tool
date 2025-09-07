@@ -14,4 +14,4 @@ User Profile
 Spent Reports (MTD, YTD)
 
 More details:
-https://www.coderobotics.com/product/adwords-budget-management/
+https://www.phpscriptsonline.com/product/online-marketing-budget-management
